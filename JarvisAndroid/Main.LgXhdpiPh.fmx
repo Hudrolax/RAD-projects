@@ -1,0 +1,32 @@
+inherited FormMain_LgXhdpiPh: TFormMain_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited ButtonListen: TButton
+    Position.X = 46.511627197265630000
+    Position.Y = 647.195800781250000000
+    Size.Width = 354.651153564453100000
+    Size.Height = 40.449707031250000000
+  end
+  inherited LabelResult: TLabel
+    Position.X = 18.604650497436520000
+    Position.Y = 500.105834960937500000
+    Size.Width = 410.465087890625000000
+    Size.Height = 138.509704589843800000
+  end
+  inherited Panel1: TPanel
+    Size.Width = 433.000000000000000000
+    inherited Memo1: TMemo
+      Viewport.Width = 323.000000000000000000
+      Viewport.Height = 339.000000000000000000
+    end
+  end
+  inherited StatusBar1: TStatusBar
+    Size.Width = 450.000000000000000000
+  end
+  inherited LabelStatus: TLabel
+    Position.X = 9.302325248718262000
+    Size.Width = 419.767425537109400000
+    Size.Height = 28.192241668701170000
+  end
+end

@@ -1,0 +1,9 @@
+GPU Error (12) list on 09.01.2018 12:21:16:
+GPU #0: 2 errors
+GPU #1: 1 errors
+GPU #2: 1 errors
+GPU #3: 2 errors
+GPU #4: 1 errors
+GPU #5: 1 errors
+GPU #6: 2 errors
+GPU #7: 2 errors
